@@ -1,0 +1,11 @@
+#problem1-result {
+    font-weight: bold;
+}
+
+.result output {
+    display: block;
+    margin-top: 8px;
+    font-family: Consolas, monospace;
+    line-height: 1.8;
+    overflow-wrap: anywhere;
+}
